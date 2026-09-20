@@ -1,4 +1,4 @@
-# 📄 Portfolio Project
+# 📄 Resume Portfolio 
 
 A simple personal resume/portfolio website built using HTML5. The project contains a main resume page along with separate pages for hobbies and contact details.
 
